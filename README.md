@@ -22,6 +22,7 @@ We use the `input()` function to take input from the user.
 
 name = input()
 print(name)
+
 ```
 
 **Output**
