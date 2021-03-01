@@ -1,5 +1,6 @@
 # Introduction to Python
-## Programs in the Videos
+## CODEBLOCKS in Python look like thiese below
+The`print()` statement is something that we will be using often to communicate and reflect/echo.
 
 ```python
 print("Hello World!")
