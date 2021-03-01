@@ -3,12 +3,12 @@ $trying LATEXT$
 ---
 These are my trails with making the changes in README.md
 ## Heading 1
-We are creating a python 'function' here
-'''python
+We are creating a python `function` here
+```python
 # ask for the user input
 name = input()
 print(name)
-'''
+```
 
 
 ## input() Function
