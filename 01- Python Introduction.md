@@ -10,7 +10,7 @@ Python is a powerful general-purpose programming language. It is used in:
 
 Compared to other programming languages, Python has simple, easy-to-use syntax. This makes Python an excellent language to learn to program for beginners.
 ***
-## CODEBLOCKS in Python look like thiese below
+## CODEBLOCKS in Python look like this below
 The`print()` statement is something that we will be using often to communicate and reflect/echo.
 
 ```python
@@ -26,3 +26,6 @@ Hello World
 This is a `print()` function. It prints whatever object that is inside the parentheses `()`.
 
 When we print strings like this, the `print()` removes quotations when it displays the output. 
+
+## CODEBLOCKS and MARKDOWN in COLAB notebooks are reffered to as CODE and TEXT respectively
+![COLAB view](https://github.com/AnandKhandekar/Python-course-ECL404-/blob/main/Images/01-Python.JPG)
