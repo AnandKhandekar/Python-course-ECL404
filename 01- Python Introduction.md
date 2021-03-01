@@ -1,4 +1,15 @@
 # Introduction to Python
+***
+Python is a powerful general-purpose programming language. It is used in:
+
+* Machine Learning
+* Web Development
+* Data Analysis
+* Scientific Research
+* Automation
+
+Compared to other programming languages, Python has simple, easy-to-use syntax. This makes Python an excellent language to learn to program for beginners.
+***
 ## CODEBLOCKS in Python look like thiese below
 The`print()` statement is something that we will be using often to communicate and reflect/echo.
 
